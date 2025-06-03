@@ -25,7 +25,7 @@ export const TeamSection = () => {
     experience: "4 years in the real estate industry",
     image: "/lovable-uploads/IsmaelTeam.png",
     quote: "My mission is to create valuable connections and long-term wealth for our clients, guiding them through one of the most impactful decisions of their lives.",
-    linkedin: "https://pt.linkedin.com/in/ismaelgq"
+    linkedin: "https://www.linkedin.com/in/ismaelgq"
   }, {
     id: 2,
     name: "Nuno Andrade",
